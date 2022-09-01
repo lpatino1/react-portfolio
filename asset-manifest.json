@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.d88b550a.css",
-    "main.js": "/react-portfolio/static/js/main.cc8d9ee4.js",
+    "main.js": "/react-portfolio/static/js/main.3fd18760.js",
     "static/media/genshin-impact-fan-quiz.png": "/react-portfolio/static/media/genshin-impact-fan-quiz.f27a96e1d41a9c2543a3.png",
     "static/media/Xiao.jpg": "/react-portfolio/static/media/Xiao.69ee6d259ab31d7342ea.jpg",
     "static/media/concertopia.png": "/react-portfolio/static/media/concertopia.88852520370e263820cb.png",
@@ -40,10 +40,10 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/react-portfolio/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/react-portfolio/index.html",
     "main.d88b550a.css.map": "/react-portfolio/static/css/main.d88b550a.css.map",
-    "main.cc8d9ee4.js.map": "/react-portfolio/static/js/main.cc8d9ee4.js.map"
+    "main.3fd18760.js.map": "/react-portfolio/static/js/main.3fd18760.js.map"
   },
   "entrypoints": [
     "static/css/main.d88b550a.css",
-    "static/js/main.cc8d9ee4.js"
+    "static/js/main.3fd18760.js"
   ]
 }
